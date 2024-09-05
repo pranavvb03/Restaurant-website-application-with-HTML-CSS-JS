@@ -1,0 +1,20 @@
+.contact-page {
+    padding: 40px 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .contact-page h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #444;
+  }
+  
+  .contact-page p {
+    margin-bottom: 15px;
+  }
+  

@@ -1,0 +1,38 @@
+.recipe-finder {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .recipe-finder-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .recipe-finder-form {
+    margin-bottom: 20px;
+  }
+  
+  .recipe-finder-input {
+    padding: 10px;
+    font-size: 1rem;
+    width: 300px;
+  }
+  
+  .recipe-finder-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin-left: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .recipe-results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
