@@ -43,4 +43,7 @@ To create a production-ready build, run:
 
 npm run build
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/6da151a2-a788-47f0-b256-35a1966b5429)
 
