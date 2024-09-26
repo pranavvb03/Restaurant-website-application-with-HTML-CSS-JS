@@ -21,22 +21,23 @@ This Restaurant Web Application is a fully responsive, user-friendly web interfa
 
 ## Installation and Setup
 
-Clone the Repository:
+ - Clone the Repository:
 
 git clone https://github.com/pranavvb03/Restaurant-website-application-with-HTML-CSS-JS.git
+
 cd restaurant-app
 
-Install Dependencies:
+ - Install Dependencies:
 
 npm install
 
-Run the Application Locally:
+ - Run the Application Locally:
 
 Start the development server with:
 
 npm start 
 
-Build for Production:
+ - Build for Production:
 
 To create a production-ready build, run:
 
