@@ -9,11 +9,15 @@ This Restaurant Web Application is a fully responsive, user-friendly web interfa
 
 ## Technologies Used:
 
-HTML/CSS: For structuring and styling the website.
-JavaScript: Handles user interactions and dynamic content.
-React.js: Frontend framework for building interactive components.
-React Router: For smooth page navigation without reloading.
-API: Edamam food recipe api for handling recipe API calls
+ - HTML/CSS: For structuring and styling the website.
+   
+ - JavaScript: Handles user interactions and dynamic content.
+   
+ - React.js: Frontend framework for building interactive components.
+   
+ - React Router: For smooth page navigation without reloading.
+   
+ - API: Edamam food recipe api for handling recipe API calls
 
 ## Installation and Setup
 
